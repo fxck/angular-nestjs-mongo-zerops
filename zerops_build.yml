@@ -3,6 +3,6 @@ use: [ nodejs@13 ]
 # which commands to run to build
 run:
   - npm i
-  - npm run build:production
+  - npm run build:productions
 # which files / folders to deploy after build
 deploy: [ dist, node_modules, package.json ]
