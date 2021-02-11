@@ -11,7 +11,12 @@ export class AppController {
 
   @Get('hello')
   async getData(): Promise<Message[]> {
-    this.appService.createData();
+    const d = Math.random();
+    
+    if (d > 0.95) {    
+      this.appService.createData();
+    }
+    
     return this.appService.getData();
   }
 }
