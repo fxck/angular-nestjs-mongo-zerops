@@ -1,4 +1,4 @@
-# ZeropsNxAngularNestjs test 22qas
+# ZeropsNxAngularNestjs test 22qasa
 
 This project was generated using [Nx](https://nx.dev).
 
