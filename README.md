@@ -1,4 +1,4 @@
-# ZeropsNxAngularNestjs assss
+# ZeropsNxAngularNestjs asssss
 
 This project was generated using [Nx](https://nx.dev).
 
