@@ -1,4 +1,4 @@
-# ZeropsNxAngularNestjs wwqsqws
+# ZeropsNxAngularNestjs wwqsqwswee
 
 This project was generated using [Nx](https://nx.dev).
 
