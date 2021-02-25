@@ -1,4 +1,4 @@
-# ZeropsNxAngularNestjs sdx
+# ZeropsNxAngularNestjs sdxsadas
 
 This project was generated using [Nx](https://nx.dev).
 
