@@ -2,7 +2,7 @@
 use: [ nodejs@13 ]
 # which commands to run to build
 run:
-  - npm i --no-audit --loglevel="notice"
+  - npm i --no-audit
   - npm run build:production
 # which files / folders to deploy after build
 deploy: [ dist, node_modules, package.json ]
