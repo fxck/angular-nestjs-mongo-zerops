@@ -13,7 +13,7 @@ export class AppController {
   async getData(): Promise<Message[]> {
     const d = Math.random();
     
-    if (d > 0.95) {    
+    if (d > 0.3) {    
       this.appService.createData();
     }
     
