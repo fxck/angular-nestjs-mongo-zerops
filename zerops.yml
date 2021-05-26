@@ -1,5 +1,5 @@
 # select what technology your build uses
-use: [ nodejs@13 ]
+use: [ nodejs@14 ]
 # which commands to run to build
 run:
   - npm i --no-audit
